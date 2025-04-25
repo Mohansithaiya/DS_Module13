@@ -41,8 +41,7 @@ int main()
 ```
 
 ## Output:
-![Screenshot 2025-04-25 201131](https://github.com/user-attachments/assets/ddc616d2-1a00-4ed7-a616-a71d646a48f6)
-
+![Screenshot 2025-04-25 201238](https://github.com/user-attachments/assets/0e5d286c-bce3-4e82-bfcc-3ca7e7a9c673)
 
 
 ## Result:
